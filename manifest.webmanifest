@@ -1,0 +1,22 @@
+{
+  "name": "The Figueiredo Polyglot \u2014 Complete New Testament",
+  "short_name": "Figueiredo NT",
+  "description": "A trilingual New Testament reader with Latin, Spanish, English, chapter arguments, and annotations.",
+  "start_url": "./index.html#home",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#d8ccae",
+  "theme_color": "#9d2820",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
