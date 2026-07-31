@@ -5,7 +5,7 @@ A GitHub Pages-ready trilingual New Testament reader featuring the Clementine Vu
 ## Live website
 
 **Read the complete New Testament edition:**  
-https://jcalepos146.github.io/The-Figueiredo-Modernized-Polygot-Bible/index.html
+https://jcalepos146.github.io/The-Figueiredo-Modernized-Polygot-Bible/
 
 ## Quality-of-life features
 
@@ -70,3 +70,9 @@ No build process or package manager is required.
 ## Textual and editorial note
 
 The biblical texts used by the site are public-domain editions. Figueiredo-related chapter arguments, annotations, condensations, and editorial supplements are identified within the interface where applicable. The site is an independent digital study edition rather than an official ecclesiastical publication.
+
+## Commentary attributions
+
+The commentary apparatus has been checked against the OCR scans of Figueiredo’s New Testament. All **103 formerly blank historical attribution fields** now identify Pereira or the commentator(s) named in the printed note. No blank attribution fields remain.
+
+The files [`COMMENTARY_ATTRIBUTIONS.md`](COMMENTARY_ATTRIBUTIONS.md) and [`commentary-attribution-audit.csv`](commentary-attribution-audit.csv) record every recovered attribution and its volume locator. Labels such as **Traditional commentary** identify modern editorial syntheses and are not falsely assigned to historical authors.
